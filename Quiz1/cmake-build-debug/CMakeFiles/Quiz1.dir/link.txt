@@ -1,0 +1,1 @@
+/usr/bin/f95   -g CMakeFiles/Quiz1.dir/MyCode03.f90.o  -o Quiz1 

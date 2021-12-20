@@ -1,0 +1,1 @@
+/usr/bin/f95   -g CMakeFiles/Assignment9.dir/Mohammadreza_Kazemi_Assignment07.f95.o  -o Assignment9 

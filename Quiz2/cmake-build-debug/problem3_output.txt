@@ -1,0 +1,21 @@
+Vector V:     Vector U:
+0.51E+01      -0.10E+02
+0.66E+00      -0.74E+01
+0.36E+01      -0.83E+00
+0.36E+01      -0.56E+01
+0.87E+01      -0.91E+01
+0.39E+00      -0.23E+01
+0.66E+01      -0.93E+01
+0.59E+00      -0.89E+01
+0.34E+01      -0.98E+01
+0.37E+01      -0.23E+01
+0.18E+01      -0.87E+01
+0.86E+01      -0.17E+01
+0.69E+01      -0.82E+01
+0.54E+00      -0.17E+01
+0.31E+01      -0.48E+01
+0.40E+01      -0.91E+01
+The multiplication of largest element of V and smallest element of U is: -0.869E+02
+V has 6 elements greater than 4, and U has 11 elements smaller than -4.
+The dot product of V and U is -0.406E+03
+The sum of all the V elements plus the sum of all the U elements is -0.382E+02

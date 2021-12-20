@@ -1,0 +1,11 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/sh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/d/Projects/Fortran/Assignment7/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /mnt/d/Projects/Fortran/Assignment7"
+-- The Fortran compiler identification is GNU 9.3.0
+-- Check for working Fortran compiler: /usr/bin/f95
+-- Check for working Fortran compiler: /usr/bin/f95  -- works
+-- Detecting Fortran compiler ABI info
+-- Detecting Fortran compiler ABI info - done
+-- Checking whether /usr/bin/f95 supports Fortran 90
+-- Checking whether /usr/bin/f95 supports Fortran 90 -- yes
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/d/Projects/Fortran/Assignment7/cmake-build-debug
